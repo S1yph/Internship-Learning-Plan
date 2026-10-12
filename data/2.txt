@@ -1,0 +1,2 @@
+Large language models are based on Transformer architectures.
+They can generate and understand natural language.

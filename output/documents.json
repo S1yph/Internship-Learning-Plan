@@ -1,0 +1,61 @@
+[
+  {
+    "id": "doc_001",
+    "filename": "1.txt",
+    "text": "Transformer is a neural network architecture.\nIt is widely used in natural language processing.",
+    "character_count": 95,
+    "chunk_count": 10,
+    "chunks": [
+      "Transforme",
+      "r is a neu",
+      "ral networ",
+      "k architec",
+      "ture.\nIt i",
+      "s widely u",
+      "sed in nat",
+      "ural langu",
+      "age proces",
+      "sing."
+    ]
+  },
+  {
+    "id": "doc_002",
+    "filename": "2.txt",
+    "text": "Large language models are based on Transformer architectures.\nThey can generate and understand natural language.",
+    "character_count": 112,
+    "chunk_count": 12,
+    "chunks": [
+      "Large lang",
+      "uage model",
+      "s are base",
+      "d on Trans",
+      "former arc",
+      "hitectures",
+      ".\nThey can",
+      " generate ",
+      "and unders",
+      "tand natur",
+      "al languag",
+      "e."
+    ]
+  },
+  {
+    "id": "doc_003",
+    "filename": "3.txt",
+    "text": "Operating systems manage processes and memory.\nLinux provides a powerful development environment.",
+    "character_count": 97,
+    "chunk_count": 10,
+    "chunks": [
+      "Operating ",
+      "systems ma",
+      "nage proce",
+      "sses and m",
+      "emory.\nLin",
+      "ux provide",
+      "s a powerf",
+      "ul develop",
+      "ment envir",
+      "onment."
+    ]
+  }
+]
