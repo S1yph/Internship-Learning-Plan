@@ -1,11 +1,18 @@
-# ai-intern-training
-
-Mini Text Processing Pipeline: 读取 -> 清洗 -> 切分 -> 统计 -> 生成 metadata -> 保存 JSON。
-
-## 运行
-```bash
-python -m venv .venv
-source .venv/bin/activate      # Windows: .venv\Scripts\activate
+# Mini Text Processing Pipeline
+
+## Overview
+
+A simple Python pipeline for loading,
+cleaning, chunking and processing text documents.
+
+## Features
+
+- Load multiple text files
+- Text cleaning
+- Fixed-size chunking
+- Document statistics
+- JSON export
+
+## Usage
+
 python src/text_processor.py
-```
-结果在 `output/documents.json`。
